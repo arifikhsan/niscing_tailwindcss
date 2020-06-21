@@ -1,4 +1,8 @@
-# Tailwind CSS Playground
+# Niscing Repo
+
+Apa itu niscing? Niscing adalah hewan kucing. ini adalah contoh repo github yang dibuat untuk mengetes SEO.
+
+## Tailwind CSS Playground
 
 A simple starter project for playing around with Tailwind in a proper PostCSS environment.
 
